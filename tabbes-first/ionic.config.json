@@ -1,0 +1,7 @@
+{
+  "name": "tabbes-first",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
